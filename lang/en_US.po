@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-12-12 09:43-0500\n"
+"PO-Revision-Date: 2016-12-12 09:43-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/wp-options-metaboxes/wp-options-metaboxes.class.php:33
+msgid "Toggle panel:"
+msgstr ""
+
+#: lib/wp-options-metaboxes/wp-options-metaboxes.class.php:96
+msgid "Save"
+msgstr ""
+
+#: linkedin-company-updates.php:73
+msgid "Config"
+msgstr ""
+
+#: linkedin-company-updates.php:80 linkedin-company-updates.php:82
+msgid "Client ID"
+msgstr ""
+
+#: linkedin-company-updates.php:81
+msgid "Your LinkedIn App Client ID."
+msgstr ""
+
+#: linkedin-company-updates.php:86 linkedin-company-updates.php:88
+msgid "Client Secret"
+msgstr ""
+
+#: linkedin-company-updates.php:87
+msgid "Your LinkedIn App Client Secret."
+msgstr ""
+
+#: linkedin-company-updates.php:92 linkedin-company-updates.php:94
+msgid "Redirect URL"
+msgstr ""
+
+#: linkedin-company-updates.php:93
+msgid ""
+"Fully qualified URLs to define valid OAuth 2.0 callback paths, as defined in "
+"your LinkedIn App."
+msgstr ""
+
+#: linkedin-company-updates.php:98
+msgid "Access Token"
+msgstr ""
+
+#: linkedin-company-updates.php:107
+msgid "Feed Settings"
+msgstr ""
+
+#: linkedin-company-updates.php:114
+msgid "Company ID"
+msgstr ""
+
+#: linkedin-company-updates.php:115
+msgid "Your Default LinkedIn Company ID."
+msgstr ""
+
+#: linkedin-company-updates.php:120
+msgid "Limit"
+msgstr ""
+
+#: linkedin-company-updates.php:121
+msgid ""
+"If no amount is specified in the shortcode, then this amount will be used."
+msgstr ""
+
+#: linkedin-company-updates.php:127
+msgid "Include Default Styling"
+msgstr ""
+
+#: linkedin-company-updates.php:128
+msgid "Checking this will include the plugin's default styling for the feed."
+msgstr ""
+
+#: linkedin-company-updates.php:132
+msgid "Update Items Container Class"
+msgstr ""
+
+#: linkedin-company-updates.php:133
+msgid ""
+"This class will be added to the container of the update items. Leave a space "
+"between each class."
+msgstr ""
+
+#: linkedin-company-updates.php:138
+msgid "Update Item Class"
+msgstr ""
+
+#: linkedin-company-updates.php:139
+msgid ""
+"This class will be added to each update item. Leave a space between each "
+"class."
+msgstr ""
+
+#: linkedin-company-updates.php:149 linkedin-company-updates.php:598
+msgid "Save Settings"
+msgstr ""
+
+#: linkedin-company-updates.php:156
+msgid "Email when Expired"
+msgstr ""
+
+#: linkedin-company-updates.php:157
+msgid "Send email when auth code expires."
+msgstr ""
+
+#: linkedin-company-updates.php:223
+msgid "Settings"
+msgstr ""
+
+#: linkedin-company-updates.php:231
+msgid "Linkedin Company Updates"
+msgstr ""
+
+#: linkedin-company-updates.php:347
+msgid "Add this URL to your LinkedIn App's <i>Authorized Redirect URLs</i>:"
+msgstr ""
+
+#: linkedin-company-updates.php:415
+msgid "You must authorize first to create a shortcode."
+msgstr ""
+
+#: linkedin-company-updates.php:443
+#, php-format
+msgid "Expires in %s days, %s hours ( <i>%s</i> ) "
+msgstr ""
+
+#: linkedin-company-updates.php:451
+msgid "Authorization token has expired, please regenerate."
+msgstr ""
+
+#: linkedin-company-updates.php:480
+msgid "Did not recieve an access token."
+msgstr ""
+
+#: linkedin-company-updates.php:524
+msgid "Your LinkedIn authorization token has been successfully updated!"
+msgstr ""
+
+#: linkedin-company-updates.php:545
+msgid "Find Your Company ID : "
+msgstr ""
+
+#: linkedin-company-updates.php:554
+msgid "Use this shortcode: "
+msgstr ""
+
+#: linkedin-company-updates.php:556
+#, php-format
+msgid ""
+"<p><span>Use shortcode %s to put the feed into content. For further "
+"documentation of shortcodes, go <a target=\"_blank\" href=\"%s\">Here.</a></"
+"span></p>"
+msgstr ""
+
+#: linkedin-company-updates.php:563
+msgid ""
+"No companies retrieved! Make sure you're the owner of the company via "
+"LinkedIn"
+msgstr ""
+
+#: linkedin-company-updates.php:569
+msgid "Need to authorize first"
+msgstr ""
+
+#: linkedin-company-updates.php:599
+msgid "Shortcode Info"
+msgstr ""
+
+#: linkedin-company-updates.php:604 linkedin-company-updates.php:792
+msgid "LinkedIn Company Updates"
+msgstr ""
+
+#: linkedin-company-updates.php:619
+msgid "Linkedin Company Updates - Authorization code expired"
+msgstr ""
+
+#: linkedin-company-updates.php:621
+#, php-format
+msgid "Please regenerate your authorization code <a href=\"%s\">Here</a>"
+msgstr ""
+
+#: linkedin-company-updates.php:650
+#, php-format
+msgid ""
+"<b>Linkedin Company Updates</b> - no valid access token found, your Linkedin "
+"feed will not display. Generate a new one <a href=\"%s\">here</a>"
+msgstr ""
+
+#: linkedin-company-updates.php:710
+msgid "Failed to make request for access token."
+msgstr ""
+
+#: linkedin-company-updates.php:747
+msgid "Months"
+msgstr ""
+
+#: linkedin-company-updates.php:748
+msgid "Day"
+msgstr ""
+
+#: linkedin-company-updates.php:748
+msgid "Days"
+msgstr ""
+
+#: linkedin-company-updates.php:751
+msgid "Today"
+msgstr ""
+
+#: linkedin-company-updates.php:761
+msgid "Ago"
+msgstr ""
+
+#: linkedin-company-updates.php:830
+msgid "view on linkedin"
+msgstr ""
+
+#: linkedin-company-updates.php:840
+msgid "Sorry, no posts were received from LinkedIn!"
+msgstr ""
